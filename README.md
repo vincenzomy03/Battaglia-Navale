@@ -1,3 +1,5 @@
+[![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=glpi-v17&metric=alert_status&token=sqb_a092a667d854e40eb35e51cf0cc6edff3ca1397c)](http://localhost:9000/dashboard?id=glpi-v17)
+
 # **Battaglia-Navale**
 
 <div align="center">
